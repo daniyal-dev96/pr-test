@@ -1,4 +1,1 @@
-# pr-test
-
-A new repository created with Flotilla-Budabit
-test commit 1
+test commit 2
